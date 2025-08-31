@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PranayrajZala
 - 👀 I’m interested in dancing and coding obv.
-- 🌱 I’m currently learning JSX.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JSX/UX/UI design.
 - 📫 How to reach me pranayrajzala11@gmail.com .
 
 <!---
